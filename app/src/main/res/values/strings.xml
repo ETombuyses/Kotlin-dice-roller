@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">test-kotlin-2-dice-roller</string>
+    <string name="button_text">Roll dice</string>
+    <string name="buttonTwo">Click me !</string>
+    <string name="button_second">Roll dice pls</string>
+</resources>
